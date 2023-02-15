@@ -1,5 +1,3 @@
-package com.qa;
-
 import org.junit.jupiter.api.Test;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
