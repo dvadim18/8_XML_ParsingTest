@@ -1,0 +1,14 @@
+<PhoneDetails>
+    <Details>
+        <name>iPhone</name>
+        <displaySize>6</displaySize>
+        <memory>64 GB</memory>
+        <camera>0.3</camera>
+    </Details>
+    <hhhh>
+        <name>Samsung</name>
+        <displaySize>16</displaySize>
+        <displayType>AMOLED</displayType>
+        <memory>666 GB</memory>
+    </hhhh>
+</PhoneDetails>
